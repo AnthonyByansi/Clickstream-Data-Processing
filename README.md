@@ -35,4 +35,8 @@ Follow these steps to set up the project:
       cd ClickstreamDataProcessing
       # Run the command to install dependencies (e.g., using sbt or Maven)
    ```
-
+## Usage 
+1. Start Apache Kafka and create a topic to store clickstream data
+2. Configure Apache Spark to collect with Kafka for Data ingestion.
+3. Ingest Clickstream Data:
+      ** Run the kafka producer program in scala to simulate or collect clickstream data. Configure the producer tos send data to kafka topic creaed in step 1.
