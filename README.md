@@ -25,12 +25,12 @@ Before running this project, ensure that you have the following prerequisites:
 ## Installation
 Follow these steps to set up the project:
 
-1 Clone the repository:
+### Clone the repository:
    ```shell
    git clone https://github.com/your-username/ClickstreamDataProcessing.git
  ```
  
-2. Install project dependencies: 
+### Install project dependencies: 
    ```shell
       cd ClickstreamDataProcessing
       # Run the command to install dependencies (e.g., using sbt or Maven)
