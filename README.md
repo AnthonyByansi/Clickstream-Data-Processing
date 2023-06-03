@@ -1,5 +1,4 @@
 # Real-Time-ClickStream-Pipeline
-# Clickstream Data Processing
 
 This project demonstrates a real-time data processing pipeline for analyzing user behavior using Scala, Apache Kafka, and Apache Spark. The pipeline ingests clickstream data, enriches it, performs sessionization, aggregation, and stores the processed data for further analysis.
 
