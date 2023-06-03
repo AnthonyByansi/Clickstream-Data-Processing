@@ -60,3 +60,13 @@ For more detailed instructions and code examples, refer to the documentation and
 
 ## Contributing
 Contributions to this project are welcome! If you have any improvements or feature suggestions, please follow these steps:
+
+* Fork the repository.
+
+* Create a new branch for your feature or improvement.
+
+* Make the necessary changes and commit them.
+
+* Push your changes to the forked repository.
+
+* Submit a pull request detailing the changes you made.
