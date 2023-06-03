@@ -40,3 +40,10 @@ Follow these steps to set up the project:
 2. Configure Apache Spark to collect with Kafka for Data ingestion.
 3. Ingest Clickstream Data:
       * Run the kafka producer program in scala to simulate or collect clickstream data. Configure the producer tos send data to kafka topic creaed in step 1.
+4. Data Processing Pipeline:
+      * Write Spark Streaming code in Scala to consume clickstream data from Kafka.
+      * Perform data enrichment tasks such as IP address lookup, user agent parsing, etc.
+      * Transform and cleanse the data as required.
+      * Define sessionization logic based on your business requirements.
+      * Group clickstream data into sessions based on user activity patterns and assign session IDs.
+      * Aggregate the clickstream data within each session and calculate relevant metrics.
