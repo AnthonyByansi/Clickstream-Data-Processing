@@ -51,3 +51,10 @@ Follow these steps to set up the project:
 5. Storing Processed Data:
       * Choose a storage system like Apache Hadoop, Apache HBase, or a database of your choice.
       * Store the processed clickstream data for further analysis.
+
+5. Analysis and Visualization:
+      * Use Scala, Apache Spark, or any other data analysis tool to perform further analysis on the processed clickstream data.
+      * Visualize the results using libraries like Matplotlib, Tableau, or Apache Superset.
+
+For more detailed instructions and code examples, refer to the documentation and source code in this repository
+
