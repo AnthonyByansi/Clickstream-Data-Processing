@@ -58,3 +58,5 @@ Follow these steps to set up the project:
 
 For more detailed instructions and code examples, refer to the documentation and source code in this repository
 
+## Contributing
+Contributions to this project are welcome! If you have any improvements or feature suggestions, please follow these steps:
