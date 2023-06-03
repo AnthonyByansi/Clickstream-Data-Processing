@@ -49,5 +49,5 @@ Follow these steps to set up the project:
       * Aggregate the clickstream data within each session and calculate relevant metrics.
 
 5. Storing Processed Data:
-       * Choose a storage system like Apache Hadoop, Apache HBase, or a database of your choice.
-       * Store the processed clickstream data for further analysis.
+      * Choose a storage system like Apache Hadoop, Apache HBase, or a database of your choice.
+      * Store the processed clickstream data for further analysis.
