@@ -48,6 +48,6 @@ Follow these steps to set up the project:
       * Group clickstream data into sessions based on user activity patterns and assign session IDs.
       * Aggregate the clickstream data within each session and calculate relevant metrics.
 
-5. **Storing Processed Data:**
+5. Storing Processed Data:
        * Choose a storage system like Apache Hadoop, Apache HBase, or a database of your choice.
        * Store the processed clickstream data for further analysis.
