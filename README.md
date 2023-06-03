@@ -25,7 +25,7 @@ Before running this project, ensure that you have the following prerequisites:
 ## Installation
 Follow these steps to set up the project:
 
-1. Clone the repository:
+1 Clone the repository:
    ```shell
    git clone https://github.com/your-username/ClickstreamDataProcessing.git
  ```
