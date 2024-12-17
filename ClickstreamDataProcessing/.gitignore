@@ -1,0 +1,8 @@
+# Ignore target and logs folders
+target/
+logs/
+*.log
+*.tmp
+.idea/
+.vscode/
+
