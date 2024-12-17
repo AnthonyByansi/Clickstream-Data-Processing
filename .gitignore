@@ -1,8 +1,12 @@
-# Ignore target and logs folders
+
+# Editor-specific folders
+.vscode/
+
+# Scala Metals and Bloop
+.metals/
+.bloop/
+
+# Build artifacts and caches
 target/
 logs/
 *.log
-*.tmp
-.idea/
-.vscode/
-
