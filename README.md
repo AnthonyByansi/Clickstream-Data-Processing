@@ -27,7 +27,7 @@ Follow these steps to set up the project:
 
 ### Clone the repository:
    ```shell
-   git clone https://github.com/your-username/ClickstreamDataProcessing.git
+   https://github.com/AnthonyByansi/Clickstream-Data-Processing.git
  ```
  
 ### Install project dependencies: 
